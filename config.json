@@ -1,0 +1,11 @@
+{
+    "acoustic": "./acoustic/Earth_Song/",
+    "acoustic_data": "metadata.json",
+    "datasets": "./datasets/",
+    "testing": "forTesting.txt",
+    "forground": "forground_ech/",
+    "background": "background_ech/ech_9",
+    "ext": ".wav",
+    "audio": "output"
+
+}

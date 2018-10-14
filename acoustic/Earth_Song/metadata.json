@@ -1,0 +1,53 @@
+[
+    {
+        "name": "ech_0",
+        "predicted_label": "did you ever stop to notice",
+        "confidence": 82
+    },
+    {
+        "name": "ech_1",
+        "predicted_label": "is there a time",
+        "confidence": 86
+    },
+    {
+        "name": "ech_2",
+        "predicted_label": "that you said was yours and mine",
+        "confidence": 79
+    },
+    {
+        "name": "ech_3",
+        "predicted_label": "that you said was yours and mine",
+        "confidence": 81
+    },
+    {
+        "name": "ech_4",
+        "predicted_label": "that you said we were to gain",
+        "confidence": 76
+    },
+    {
+        "name": "ech_5",
+        "predicted_label": "what about all the things",
+        "confidence": 82
+    },
+    {
+        "name": "ech_6",
+        "predicted_label": "what about killing fields",
+        "confidence": 79
+    },
+    {
+        "name": "ech_7",
+        "predicted_label": "what about rain",
+        "confidence": 82
+    },
+    {
+        "name": "ech_8",
+        "predicted_label": "what about sunrise",
+        "confidence": 79
+    }
+    ,
+    {
+        "name": "ech_9",
+        "predicted_label": "bg_wave",
+        "confidence": 79
+    }
+]
