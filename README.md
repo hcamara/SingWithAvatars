@@ -8,7 +8,7 @@ signal processing and speech synthesis features are also used to generate song.
 To generate song from default acoustic model and datasets, you must use the following command:
 
 ```
-python appy.py
+python generate.py
 ```
 This command will create a song from testing data.<br/>
 You can found output file in folder named "output"
