@@ -1,0 +1,1 @@
+This folder must contain harmonics from DNN (ech_0,ech_1, ..., ech_x)
